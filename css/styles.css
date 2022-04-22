@@ -122,9 +122,8 @@ textarea {
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: cover;
-  background-image: url(img/background.jpg);
+  background-image: url(../img/background.jpg);
   position: relative;
-  z-index: -1;
 }
 .hero::after {
   position: absolute;
